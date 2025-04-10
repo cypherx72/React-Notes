@@ -11,10 +11,14 @@
             "id": "a5fc126f8def8716",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "this is a new note.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "this is a new note"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "this is a new note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for this is a new note"
             }
           },
           {
@@ -160,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5df64b0e38b5176d",
+  "active": "a5fc126f8def8716",
   "lastOpenFiles": [
+    "this is a new note.md",
     "2025-04-10.md",
     "Untitled.canvas",
     "Welcome.md",
