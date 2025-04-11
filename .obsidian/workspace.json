@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "this is a new note.md",
+                "file": "React Notes/26. Introduction to Next.js/8. Optimizing Images in Next.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "this is a new note"
+              "title": "8. Optimizing Images in Next.js"
+            }
+          },
+          {
+            "id": "3b566568aab7823e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. React Server Components vs Client Components (Next.js context).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. React Server Components vs Client Components (Next.js context)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2b1d5cbaa28d592e",
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "this is a new note.md",
+                "file": "8. React Server Components vs Client Components (Next.js context).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for this is a new note"
+              "title": "Backlinks for 8. React Server Components vs Client Components (Next.js context)"
             }
           },
           {
@@ -153,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,9 +182,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5fc126f8def8716",
+  "active": "3b566568aab7823e",
   "lastOpenFiles": [
-    "this is a new note.md",
+    "React Notes/26. Introduction to Next.js/8. Optimizing Images in Next.js.md",
+    "8. React Server Components vs Client Components (Next.js context).md",
+    "React Notes/6..md",
+    "React Notes/7. Styling-Options in Next.js.md",
+    "React Notes/26. Introduction to Next.js/2. Understanding the Directories and Server Components in Next.js.md",
+    "React Notes/26. Introduction to Next.js/5. Dynamic Routes in Next.js.md",
+    "React Notes/26. Introduction to Next.js/3. Routing in Next.js Using the App Directory.md",
+    "React Notes/26. Introduction to Next.js/4. CSS, Assets, Components, and Imports in Next.js.md",
+    "React Notes/26. Introduction to Next.js/Layouts in Next.j.md",
+    "React Notes/26. Introduction to Next.js/1. Introduction to Fullstack React with Next.js.md",
+    "React Notes/26. Introduction to Next.js",
+    "Untitled",
+    "this is a new no.md",
     "2025-04-10.md",
     "Untitled.canvas",
     "Welcome.md",
