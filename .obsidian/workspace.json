@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Notes/26. Introduction to Next.js/13.  Metadata in Next.js.md",
+                "file": "React Notes/26. Introduction to Next.js/15. Creating Pages & File-Based Routing in Next.js (Pages Router).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.  Metadata in Next.js"
+              "title": "15. Creating Pages & File-Based Routing in Next.js (Pages Router)"
             }
           }
         ]
@@ -168,9 +168,11 @@
   },
   "active": "3b566568aab7823e",
   "lastOpenFiles": [
+    "React Notes/26. Introduction to Next.js/14. App Router vs Pages Router in Next.js.md",
+    "React Notes/26. Introduction to Next.js/15. Creating Pages & File-Based Routing in Next.js (Pages Router).md",
+    "React Notes/26. Introduction to Next.js/13.  Metadata in Next.js.md",
     "React Notes/26. Introduction to Next.js/8. Optimizing Images in Next.js.md",
     "React Notes/26. Introduction to Next.js/12. Handling Production Build Issues in Next.js.md",
-    "React Notes/26. Introduction to Next.js/13.  Metadata in Next.js.md",
     "React Notes/26. Introduction to Next.js/9. Fetching Data in Next.js (Server Components).md",
     "React Notes/26. Introduction to Next.js/10. Improving UX with Granular Loading.md",
     "React Notes/26. Introduction to Next.js/11. Handling Form Submissions Using Server Actions in Next.js.md",
