@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Notes/27. RSC & Server Actions/4. Submitting forms with server actions.md",
+                "file": "React Notes/27. RSC & Server Actions/1. Special React Features – Server Components, Server Actions, and `use()` with Promises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Submitting forms with server actions"
+              "title": "1. Special React Features – Server Components, Server Actions, and `use()` with Promises"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 200
   },
   "right": {
     "id": "2b1d5cbaa28d592e",
@@ -168,9 +168,11 @@
   },
   "active": "3b566568aab7823e",
   "lastOpenFiles": [
-    "React Notes/27. RSC & Server Actions/3. React Server Components - Data Fetching.md",
-    "React Notes/27. RSC & Server Actions/4. Submitting forms with server actions.md",
     "React Notes/27. RSC & Server Actions/2. Understanding React Server components.md",
+    "React Notes/27. RSC & Server Actions/6. Error Boundaries in React (with Suspense + `use()` Hook).md",
+    "React Notes/27. RSC & Server Actions/5.  Using the use() Hook for Promises & Data Fetching.md",
+    "React Notes/27. RSC & Server Actions/4. Submitting forms with server actions.md",
+    "React Notes/27. RSC & Server Actions/3. React Server Components - Data Fetching.md",
     "React Notes/3. Working with props in React/2. Prop Drilling & Solutions.md",
     "React Notes/4. Refs & Portals",
     "Untitled",
@@ -184,7 +186,7 @@
     "React Notes/1. Introduction to React/1. Rendering Components with JavaScript vs JSX.md",
     "React Notes/1. Introduction to React/4. Styling in React.md",
     "React Notes/1. Introduction to React",
-    "React Notes/27. RSC & Server Actions/1. 📄 Special React Features – Server Components, Server Actions, and `use()` with Promises.md",
+    "React Notes/27. RSC & Server Actions/1. Special React Features – Server Components, Server Actions, and `use()` with Promises.md",
     "React Notes/26. Introduction to Next.js/19. Deploying Next.js on Vercel.md",
     "React Notes/27. RSC & Server Actions",
     "React Notes/26. Introduction to Next.js/18. Introduction to API Routes.md",
@@ -198,8 +200,6 @@
     "React Notes/26. Introduction to Next.js/9. Fetching Data in Next.js (Server Components).md",
     "React Notes/26. Introduction to Next.js/10. Improving UX with Granular Loading.md",
     "React Notes/26. Introduction to Next.js/11. Handling Form Submissions Using Server Actions in Next.js.md",
-    "React Notes/26. Introduction to Next.js/7. Styling-Options in Next.js.md",
-    "React Notes/26. Introduction to Next.js/6. React Server Components vs Client Components (Next.js context).md",
     "React Notes/26. Introduction to Next.js",
     "Untitled.canvas",
     "React Notes"
