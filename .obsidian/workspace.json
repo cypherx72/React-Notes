@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Notes/26. Introduction to Next.js/15. Creating Pages & File-Based Routing in Next.js (Pages Router).md",
+                "file": "React Notes/27. RSC & Server Actions/4. Submitting forms with server actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. Creating Pages & File-Based Routing in Next.js (Pages Router)"
+              "title": "4. Submitting forms with server actions"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 210.5
   },
   "right": {
     "id": "2b1d5cbaa28d592e",
@@ -168,8 +168,30 @@
   },
   "active": "3b566568aab7823e",
   "lastOpenFiles": [
-    "React Notes/26. Introduction to Next.js/14. App Router vs Pages Router in Next.js.md",
+    "React Notes/27. RSC & Server Actions/3. React Server Components - Data Fetching.md",
+    "React Notes/27. RSC & Server Actions/4. Submitting forms with server actions.md",
+    "React Notes/27. RSC & Server Actions/2. Understanding React Server components.md",
+    "React Notes/3. Working with props in React/2. Prop Drilling & Solutions.md",
+    "React Notes/4. Refs & Portals",
+    "Untitled",
+    "React Notes/3. Working with props in React/3. Linking Context to State in React.md",
+    "React Notes/3. Working with props in React/1. Handling Props in React.md",
+    "React Notes/2. Managing React State, Lists & Derived State/1. Best Practices for Managing React State, Lists, and Derived State.md",
+    "React Notes/3. Working with props in React",
+    "React Notes/1. Introduction to React/2. React Event Handling & Re-renders.md",
+    "React Notes/1. Introduction to React/3. Debugging React Applications.md",
+    "React Notes/2. Managing React State, Lists & Derived State",
+    "React Notes/1. Introduction to React/1. Rendering Components with JavaScript vs JSX.md",
+    "React Notes/1. Introduction to React/4. Styling in React.md",
+    "React Notes/1. Introduction to React",
+    "React Notes/27. RSC & Server Actions/1. 📄 Special React Features – Server Components, Server Actions, and `use()` with Promises.md",
+    "React Notes/26. Introduction to Next.js/19. Deploying Next.js on Vercel.md",
+    "React Notes/27. RSC & Server Actions",
+    "React Notes/26. Introduction to Next.js/18. Introduction to API Routes.md",
+    "React Notes/26. Introduction to Next.js/17. Pre-Rendering Options in Next.js.md",
+    "React Notes/26. Introduction to Next.js/16. Navigating & Fetching Data (File Routing).md",
     "React Notes/26. Introduction to Next.js/15. Creating Pages & File-Based Routing in Next.js (Pages Router).md",
+    "React Notes/26. Introduction to Next.js/14. App Router vs Pages Router in Next.js.md",
     "React Notes/26. Introduction to Next.js/13.  Metadata in Next.js.md",
     "React Notes/26. Introduction to Next.js/8. Optimizing Images in Next.js.md",
     "React Notes/26. Introduction to Next.js/12. Handling Production Build Issues in Next.js.md",
@@ -178,20 +200,8 @@
     "React Notes/26. Introduction to Next.js/11. Handling Form Submissions Using Server Actions in Next.js.md",
     "React Notes/26. Introduction to Next.js/7. Styling-Options in Next.js.md",
     "React Notes/26. Introduction to Next.js/6. React Server Components vs Client Components (Next.js context).md",
-    "React Notes/26. Introduction to Next.js/5. Dynamic Routes in Next.js.md",
-    "React Notes/26. Introduction to Next.js/3. Routing in Next.js Using the App Directory.md",
-    "React Notes/26. Introduction to Next.js/2. Understanding the Directories and Server Components in Next.js.md",
-    "Untitled.md",
-    "React Notes/26. Introduction to Next.js/1. Introduction to Fullstack React with Next.js.md",
-    "React Notes/26. Introduction to Next.js/4. CSS, Assets, Components, and Imports in Next.js.md",
-    "React Notes/6..md",
-    "React Notes/26. Introduction to Next.js/Layouts in Next.j.md",
     "React Notes/26. Introduction to Next.js",
-    "Untitled",
-    "this is a new no.md",
-    "2025-04-10.md",
     "Untitled.canvas",
-    "Welcome.md",
     "React Notes"
   ]
 }
