@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Notes/29. Compound Components/1. Compound Components Pattern.md",
+                "file": "React Notes/29. Compound Components/2. Managing Multi-Component State with the Context API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Compound Components Pattern"
+              "title": "2. Managing Multi-Component State with the Context API"
             }
           }
         ]
@@ -168,8 +168,9 @@
   },
   "active": "3b566568aab7823e",
   "lastOpenFiles": [
-    "React Notes/28. Animating React Apps/6. Animating List items when switching tabs.md",
     "React Notes/29. Compound Components/1. Compound Components Pattern.md",
+    "React Notes/29. Compound Components/2. Managing Multi-Component State with the Context API.md",
+    "React Notes/28. Animating React Apps/6. Animating List items when switching tabs.md",
     "React Notes/29. Compound Components",
     "React Notes/28. Animating React Apps/5. useAnimate Hook (Imperative Animation).md",
     "React Notes/28. Animating React Apps/4. Making elements pop with `hover` animation.md",
@@ -201,7 +202,6 @@
     "React Notes/1. Introduction to React",
     "React Notes/26. Introduction to Next.js/19. Deploying Next.js on Vercel.md",
     "React Notes/27. RSC & Server Actions",
-    "React Notes/26. Introduction to Next.js/18. Introduction to API Routes.md",
     "React Notes/26. Introduction to Next.js",
     "Untitled.canvas",
     "React Notes"
