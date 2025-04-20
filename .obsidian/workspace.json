@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Notes/8. React State and Component Behavior/4. Million.js – Optimizing React Performance.md",
+                "file": "React Notes/10. Working with Data in React/10. Optimistic Updating.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Million.js – Optimizing React Performance"
+              "title": "10. Optimistic Updating"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.5
   },
   "right": {
     "id": "2b1d5cbaa28d592e",
@@ -166,44 +166,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5df64b0e38b5176d",
+  "active": "3b566568aab7823e",
   "lastOpenFiles": [
-    "React Notes/10. Working with Data in React",
-    "React Notes/Untitled.md",
-    "React Notes/9. Class-Based Components in React",
-    "React Notes/8. React State and Component Behavior/4. Million.js – Optimizing React Performance.md",
-    "React Notes/8. React State and Component Behavior/3. State Scheduling and Batching in React.md",
-    "React Notes/8. React State and Component Behavior/2. Keys in React – Beyond Lists.md",
-    "React Notes/8. React State and Component Behavior/1. State in Components.md",
-    "React Notes/7. React Optimization/3. `useMemo` Hook in React.md",
-    "React Notes/8. React State and Component Behavior",
-    "React Notes/7. React Optimization/2. React Optimization with Component Composition.md",
-    "React Notes/7. React Optimization/1. React Optimization with `memo()`.md",
-    "React Notes/26. Introduction to Next.js/8. Optimizing Images in Next.js.md",
-    "React Notes/26. Introduction to Next.js/1. Introduction to Fullstack React with Next.js.md",
-    "React Notes/6. React Component Tree and Dom update/2.  React Component Tree and Profiling Notes.md",
-    "React Notes/7. React Optimization",
-    "React Notes/7. React Optimization.md",
-    "Next.js Notes",
-    "React Notes/6. React Component Tree and Dom update/1. React DOM updates.md",
-    "React Notes/5. Side Effects in React/5. useCallback hook in React.md",
-    "React Notes/6. React Component Tree and Dom update",
-    "React Notes/5. Side Effects in React/4. useEffect Cleanup Function in React.md",
-    "React Notes/5. Side Effects in React/3. Fixing the Missing Backdrop Issue with useEffect in React.md",
-    "React Notes/5. Side Effects in React/2. When not to use useEffect - (storing data in local Storage).md",
-    "React Notes/5. Side Effects in React/1. Understanding Side Effects in React.md",
-    "React Notes/4. Refs & Portals & useReducer/2. Using `useReducer` for State Management.md",
-    "React Notes/5. Side Effects in React",
-    "React Notes/4. Refs & Portals & useReducer/5. React Portals.md",
-    "React Notes/4. Refs & Portals & useReducer/4. Passing Refs as Props in React 19+.md",
-    "React Notes/4. Refs & Portals & useReducer/3. Using Dialogs and Modals in React.md",
-    "React Notes/29. Compound Components/3.  Introducing & Using Render Props.md",
-    "React Notes/30. Replacing Redux with React Hooks",
-    "React Notes/3. Replacing Redux with react.md",
-    "React Notes/29. Compound Components/2. Managing Multi-Component State with the Context API.md",
-    "React Notes/29. Compound Components",
-    "React Notes/28. Animating React Apps",
-    "React Notes/4. Refs & Portals & useReducer",
+    "React Notes/10. Working with Data in React/11. Deleting Data (via DELETE HTTP Requests).md",
+    "React Notes/10. Working with Data in React/10. Optimistic Updating.md",
+    "React Notes/10. Working with Data in React/9. Sending data with post requests.md",
+    "React Notes/10. Working with Data in React/8. Handling HTTP Errors.md",
+    "React Notes/10. Working with Data in React/7. Fetching User Location.md",
+    "React Notes/11. Building Custom React Hooks/2. How to create a custom hook.md",
+    "React Notes/11. Building Custom React Hooks/3. Updating state from a custom hook in react.md",
+    "React Notes/11. Building Custom React Hooks/4. Using a custom hook in multiple components.md",
+    "React Notes/11. Building Custom React Hooks/5. Creating flexible custom hooks.md",
+    "React Notes/11. Building Custom React Hooks/Untitled",
+    "React Notes/12. Forms in React/Handling Forms via Form Actions/2. Extracting and Validating Form data.md",
+    "React Notes/12. Forms in React/Handling Forms via Form Actions/3. Displaying Errors.md",
+    "React Notes/12. Forms in React/2. Handling Form Submission in React.md",
+    "React Notes/12. Forms in React/1. Introduction to forms.md",
+    "React Notes/12. Forms in React/Handling Forms via Form Actions/1. Introduction to Form Actions.md",
+    "React Notes/12. Forms in React/Handling Forms via Form Actions/7. Registering multiple form actions.md",
+    "React Notes/12. Forms in React/Handling Forms via Form Actions/8.  Sending an HTTP Request via a Form Action.md",
+    "React Notes/12. Forms in React/Handling Forms via Form Actions/10. The useOptimistic hook in React.md",
+    "React Notes/12. Forms in React/Handling Forms via Form Actions/9. Enhance the user experience.md",
+    "React Notes/12. Forms in React/Handling Forms via Form Actions/5. Working with Asynchronous form Actions.md",
+    "React Notes/12. Forms in React/Handling Forms via Form Actions/6. useFormStatus Hook in Action.md",
+    "React Notes/12. Forms in React/Handling Forms via Form Actions/4. Preserving user input values.md",
+    "React Notes/12. Forms in React/9.Exploring Third-Party Form Libraries in React.md",
+    "React Notes/12. Forms in React/Handling Forms via Form Actions",
+    "React Notes/12. Forms in React/8. Reusable Input Component for Forms.md",
+    "React Notes/12. Forms in React/7. Combining Browser Validation with Custom Logic in React Forms.md",
+    "React Notes/12. Forms in React/6. Form Validation in React (Custom vs Built-In).md",
+    "React Notes/12. Forms in React/5. Validation Approaches in React Forms.md",
+    "React Notes/18. Tanstack Query~Handling HTTP requests with ease/Untitled",
+    "React Notes/18. Tanstack Query~Handling HTTP requests with ease",
+    "React Notes/17. Deploying React Applications",
+    "React Notes/16. Adding Authentication to React Apps",
+    "React Notes/15. Building a Multi-page SPA with React Router/3. Adding multiple Routers in React Router",
+    "React Notes/15. Building a Multi-page SPA with React Router",
+    "React Notes/14. Advanced Redux",
+    "React Notes/13. Diving into Redux(An alternative to the Context API)",
     "Untitled.canvas"
   ]
 }
