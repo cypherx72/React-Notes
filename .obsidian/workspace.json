@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Notes/25. React + Typescript/9. TypeScript Configuration Essentials.md",
+                "file": "React Notes/19. Next JS/23. Configuring cache all routes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. TypeScript Configuration Essentials"
-            }
-          },
-          {
-            "id": "ea1e516ca6150477",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "23. Configuring cache all routes"
             }
           }
         ]
@@ -90,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 245.5
   },
   "right": {
     "id": "2b1d5cbaa28d592e",
@@ -180,8 +168,24 @@
   },
   "active": "3b566568aab7823e",
   "lastOpenFiles": [
-    "React Notes/25. React + Typescript/8. React Context API with TypeScript.md",
+    "React Notes/19. Next JS/3. Routing in Next.js Using the App Directory.md",
+    "React Notes/19. Next JS/23. Configuring cache all routes.md",
+    "React Notes/19. Next JS/22. Working with parallel & nested routes.md",
+    "React Notes/19. Next JS/21. Parallel Routes in Next.js.md",
+    "React Notes/19. Next JS/20. Routing & Page Rendering.md",
+    "React Notes/19. Next JS/8. Optimizing Images in Next.js.md",
+    "React Notes/19. Next JS/10. Improving UX with Granular Loading.md",
+    "React Notes/19. Next JS/5. Dynamic Routes in Next.js.md",
+    "React Notes/19. Next JS/1. Introduction to Fullstack React with Next.js.md",
+    "Tailwind CSS Notes/7. Customizing Your Design System.md",
+    "Tailwind CSS Notes/5. Composing Utilities with @apply.md",
+    "Tailwind CSS Notes/6. Extracting Reusable Components.md",
+    "Tailwind CSS Notes/8. Optimizing for Production.md",
+    "Tailwind CSS Notes/README.md",
+    "Tailwind CSS Notes/1. Setting Up Tailwind CSS.md",
+    "Tailwind CSS Notes/2. The Utility-First Workflow.md",
     "React Notes/25. React + Typescript/9. TypeScript Configuration Essentials.md",
+    "React Notes/25. React + Typescript/8. React Context API with TypeScript.md",
     "React Notes/25. React + Typescript/7. CSS Modules.md",
     "React Notes/25. React + Typescript/6. Form Submissions in TypeScript.md",
     "React Notes/25. React + Typescript/5. Defining data models with TypeScript.md",
@@ -190,22 +194,6 @@
     "React Notes/25. React + Typescript/2. Type Aliases & Functions.md",
     "React Notes/25. React + Typescript/1. Core Primitive Types.md",
     "React Notes/21. Animating React Apps/6. Animating List items when switching tabs.md",
-    "React Notes/21. Animating React Apps/5. useAnimate Hook (Imperative Animation).md",
-    "React Notes/21. Animating React Apps/4. Making elements pop with `hover` animation.md",
-    "React Notes/21. Animating React Apps/3. Framer-motion Basics & Fundementals.md",
-    "React Notes/21. Animating React Apps/2. Why Use Framer Motion (CSS Limitations  & Realistic Animations in React).md",
-    "React Notes/21. Animating React Apps/1. CSS Animations.md",
-    "React Notes/20. RSC & Server Actions/3. React Server Components - Data Fetching.md",
-    "React Notes/20. RSC & Server Actions/6. Error Boundaries in React (with Suspense + `use()` Hook).md",
-    "React Notes/20. RSC & Server Actions/5.  Using the use() Hook for Promises & Data Fetching.md",
-    "React Notes/20. RSC & Server Actions/4. Submitting forms with server actions.md",
-    "React Notes/20. RSC & Server Actions/2. Understanding React Server components.md",
-    "React Notes/20. RSC & Server Actions/1. Special React Features – Server Components, Server Actions, and `use()` with Promises.md",
-    "React Notes/19. Introduction to Next.js/19. Deploying Next.js on Vercel.md",
-    "React Notes/19. Introduction to Next.js/18. Introduction to API Routes.md",
-    "React Notes/19. Introduction to Next.js/17. Pre-Rendering Options in Next.js.md",
-    "React Notes/19. Introduction to Next.js/16. Navigating & Fetching Data (File Routing).md",
-    "React Notes/19. Introduction to Next.js/15. Creating Pages & File-Based Routing in Next.js (Pages Router).md",
     "React Notes/11. Building Custom React Hooks/Untitled",
     "React Notes/12. Forms in React/Handling Forms via Form Actions",
     "React Notes/18. Tanstack Query~Handling HTTP requests with ease/Untitled",
