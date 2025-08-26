@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/4. Array Representations/7. Row & Column-Major Mapping.md",
+                "file": "Data Structures and Algorithms/7. Linked Lists/9. Creating a linked lists using insert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Row & Column-Major Mapping"
+              "title": "9. Creating a linked lists using insert"
             }
           }
         ]
@@ -169,9 +169,21 @@
   },
   "active": "17412a02125c2e18",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/7. Linked Lists/8. Searching in a linked lists.md",
+    "Data Structures and Algorithms/7. Linked Lists/9. Creating a linked lists using insert.md",
+    "README.md",
+    "Data Structures and Algorithms/7. Linked Lists/7. Maximum function.md",
+    "Data Structures and Algorithms/7. Linked Lists/Untitled",
+    "Data Structures and Algorithms/7. Linked Lists/6. Sum of all elements in a linked lists.md",
+    "Data Structures and Algorithms/7. Linked Lists/5. Counting Nodes in a linked lists.md",
+    "Data Structures and Algorithms/7. Linked Lists/4. Recursive Traversal of Linked Lists.md",
+    "Data Structures and Algorithms/7. Linked Lists/3. Display linked lists.md",
+    "Data Structures and Algorithms/7. Linked Lists/2. Linked List – Details.md",
+    "Data Structures and Algorithms/7. Linked Lists/1. Linked List – Introduction.md",
+    "Data Structures and Algorithms/4. Array Representations/7. Row & Column-Major Mapping.md",
+    "Data Structures and Algorithms/7. Linked Lists",
     "Data Structures and Algorithms/4. Array Representations/9. 3D Array Address Mapping.md",
     "Data Structures and Algorithms/4. Array Representations/8. Formulas for ndArrays.md",
-    "Data Structures and Algorithms/4. Array Representations/7. Row & Column-Major Mapping.md",
     "Data Structures and Algorithms/4. Array Representations/6. Array Representation by compiler.md",
     "Data Structures and Algorithms/4. Array Representations/5. 2D Array in C or C++.md",
     "Data Structures and Algorithms/4. Array Representations/4. How to increase array size.md",
@@ -187,24 +199,12 @@
     "Data Structures and Algorithms/3. Recursion/9. Indirect Recursion.md",
     "Data Structures and Algorithms/3. Recursion/8. Tree Recursion.md",
     "Data Structures and Algorithms/3. Recursion/7. Head Recursion.md",
-    "Data Structures and Algorithms/3. Recursion/3. How Recursion uses stack.md",
-    "Data Structures and Algorithms/3. Recursion/6. Tail Recursion.md",
-    "Data Structures and Algorithms/3. Recursion/5. Static vs Global Variables in recursion.md",
-    "Data Structures and Algorithms/3. Recursion/4. Time complexity of Recursion functions.md",
-    "Data Structures and Algorithms/3. Recursion/2. Generalizing Recursion.md",
-    "Data Structures and Algorithms/3. Recursion/1. What is Recursion.md",
-    "Data Structures and Algorithms/2. Introduction/6. Finding Complexity from code.md",
     "Data Structures and Algorithms/3. Recursion",
-    "Data Structures and Algorithms/2. Introduction/5. Time & Space Complexity.md",
-    "Data Structures and Algorithms/2. Introduction/4. ADT.md",
-    "Data Structures and Algorithms/2. Introduction/3. Physical vs Logical Data Structures.md",
     "Data Structures and Algorithms/2. Introduction",
     "Data Structures and Algorithms/Essential C and C++ concepts/Int",
     "Data Structures and Algorithms/1. Essential C and C++ concepts",
     "Data Structures and Algorithms",
     "NodeJS/23. GraphQL",
-    "NodeJS/22. Working with web sockets",
-    "NodeJS/21. Working with Rest API's",
     "Pasted image 20250509215154.png",
     "Untitled.canvas"
   ]
