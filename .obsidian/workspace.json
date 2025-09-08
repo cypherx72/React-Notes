@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/7. Linked Lists/19..md",
+                "file": "Data Structures and Algorithms/8. Stack/1. Introduction to stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19."
+              "title": "1. Introduction to stack"
             }
           }
         ]
@@ -169,8 +169,20 @@
   },
   "active": "17412a02125c2e18",
   "lastOpenFiles": [
+    "React Notes/12. Forms in React/2. Handling Form Submission in React.md",
+    "Data Structures and Algorithms/8. Stack/1. Introduction to stack.md",
+    "Data Structures and Algorithms/8. Stack",
+    "React Notes/12. Forms in React/Handling Forms via Form Actions/2. Extracting and Validating Form data.md",
+    "React Notes/16. Adding Authentication to React Apps/2. Authentication in React ~ User Signup & Login.md",
+    "React Notes/12. Forms in React/Handling Forms via Form Actions/1. Introduction to Form Actions.md",
+    "React Notes/19. Next JS/Deep Dive/App Router/6. Authentication/1. Intro to authentication.md",
+    "Data Structures and Algorithms/7. Linked Lists/24.   Circular Doubly Linked List (CDLL).md",
+    "Data Structures and Algorithms/7. Linked Lists/23. Operations on Doubly Linked List (DLL).md",
+    "Data Structures and Algorithms/7. Linked Lists/22. Deletion in Doubly Linked List (DLL).md",
+    "Data Structures and Algorithms/7. Linked Lists/21. Insertion in Doubly Linked List.md",
+    "Data Structures and Algorithms/7. Linked Lists/20. Double Linked lists.md",
+    "Data Structures and Algorithms/7. Linked Lists/19. Deletion in a circular linked list.md",
     "Data Structures and Algorithms/7. Linked Lists/18. Insertion in a circular linked lists.md",
-    "Data Structures and Algorithms/7. Linked Lists/19..md",
     "Data Structures and Algorithms/7. Linked Lists/16. Detecting a loop in a linked lists.md",
     "Data Structures and Algorithms/7. Linked Lists/17. Circular Linked lists.md",
     "Data Structures and Algorithms/7. Linked Lists/15. Merging two sorted linked lists.md",
@@ -184,19 +196,8 @@
     "NodeJS/23. GraphQL/5. Connecting Frontend to Backend using Graphql.md",
     "Data Structures and Algorithms/7. Linked Lists/8. Searching in a linked lists.md",
     "README.md",
-    "Data Structures and Algorithms/7. Linked Lists/7. Maximum function.md",
     "Data Structures and Algorithms/7. Linked Lists/Untitled",
-    "Data Structures and Algorithms/7. Linked Lists/6. Sum of all elements in a linked lists.md",
-    "Data Structures and Algorithms/7. Linked Lists/5. Counting Nodes in a linked lists.md",
-    "Data Structures and Algorithms/7. Linked Lists/4. Recursive Traversal of Linked Lists.md",
-    "Data Structures and Algorithms/7. Linked Lists/3. Display linked lists.md",
-    "Data Structures and Algorithms/7. Linked Lists/2. Linked List – Details.md",
-    "Data Structures and Algorithms/7. Linked Lists/1. Linked List – Introduction.md",
-    "Data Structures and Algorithms/4. Array Representations/7. Row & Column-Major Mapping.md",
     "Data Structures and Algorithms/7. Linked Lists",
-    "Data Structures and Algorithms/4. Array Representations/9. 3D Array Address Mapping.md",
-    "Data Structures and Algorithms/4. Array Representations/8. Formulas for ndArrays.md",
-    "Data Structures and Algorithms/4. Array Representations/6. Array Representation by compiler.md",
     "Data Structures and Algorithms/4. Array Representations",
     "Data Structures and Algorithms/3. Recursion/Recursion Problems and Solutions",
     "Data Structures and Algorithms/3. Recursion",
@@ -204,7 +205,6 @@
     "Data Structures and Algorithms/Essential C and C++ concepts/Int",
     "Data Structures and Algorithms/1. Essential C and C++ concepts",
     "Data Structures and Algorithms",
-    "NodeJS/23. GraphQL",
     "Pasted image 20250509215154.png",
     "Untitled.canvas"
   ]
